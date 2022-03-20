@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Goonts.jpg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className='App-header'>
         <h1> JSX is cool </h1>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>My name is Ahmed Abdulla and I am going to master React!</p>
+        <p>My name is Ahmed Abdulla and I am going to master</p>
         <a
           className='App-link'
           href='https://reactjs.org'
